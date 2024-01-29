@@ -1,2 +1,15 @@
-# godot-projetos
-Repositórios de projetos Godot de Cursos, Tutoriais e Jogos
+<h2>Godot - Projetos</h2>
+<p>Aqui você encontra todos os meus repositórios de projetos feitos na Godot (cursos, tutoriais e jogos)</p>
+<hr>
+<h3><em>Tutoriais</em></h3>
+<span>em breve</span>
+
+<h3><em>Cursos da Udemy</em></h3>
+<ul>
+  <li><a href="https://github.com/GabrielChiarelli/curso-primeiro-jogo-na-godot-4-projeto-godot">Crie seu primeiro jogo na Godot 4</a></li>
+</ul>
+
+<h3><em>Cursos do YouTube</em></h3>
+<ul>
+  <li><a href="https://github.com/GabrielChiarelli/curso-pong-na-godot-4-projeto-godot">PONG na Godot 4</a></li>
+</ul>
