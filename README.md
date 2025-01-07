@@ -3,6 +3,7 @@
 <hr>
 <h3><em>Tutoriais</em></h3>
 <ul>
+  <li><a href="https://github.com/GabrielChiarelli/custom-signals-tutorial-projeto-godot" target="_blank">Custom Signals</a></li>
   <li><a href="https://github.com/GabrielChiarelli/salvar-highscore-tutorial-projeto-godot" target="_blank">Salvar Highscore</a></li>
   <li><a href="https://github.com/GabrielChiarelli/contador-de-fps-na-godot-4-projeto-godot" target"_blank">Contador de FPS na Godot 4</a></li>
   <li><a href="https://github.com/GabrielChiarelli/remover-embacado-tutorial-projeto-godot">Reomver embaçado da Pixel Art na Godot 4</a></li>
